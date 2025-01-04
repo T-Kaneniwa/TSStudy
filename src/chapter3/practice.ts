@@ -1,5 +1,5 @@
 type User = {
-  name: SVGStringList;
+  name: string;
   age: number;
   premiumUser: boolean;
 };
