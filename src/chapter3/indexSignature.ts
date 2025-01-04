@@ -8,4 +8,4 @@ const data: PriceData = {
 };
 
 data.chicken = 250;
-data.弁当 = 'aa';
+// data.弁当 = 'aa';
